@@ -8,11 +8,7 @@ This is a radio app where you can ask Alan AI to play some music.
 >
 >
 
-### Show some :heart: and star the repo.
 
-
-
----
 
 
 ## Some screenshots
